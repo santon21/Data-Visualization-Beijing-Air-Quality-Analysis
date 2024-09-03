@@ -20,6 +20,7 @@ This project analyzes historical and real-time air quality data in Beijing using
 ## Project Structure
 The project consists of the following files:
 - `Data_Visualization_Beijing_Air_Quality_Analysis.ipynb`: Notebook for data preprocessing, exploratory data analysis, visualization, and interactive API integration.
+- `Beijing Air Quality.csv`: Dataset containing daily air quality metrics for Beijing, used for analysis and visualizations.
 - `Project Presentation.pptx`: Presentation summarizing the key findings and visualizations.
 - `README.md`: Project documentation.
 
