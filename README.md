@@ -1,4 +1,4 @@
-# Data-Driven Analysis of Air Quality in Beijing
+# Data Visualization: Data-Driven Analysis of Air Quality in Beijing
 
 ## Overview
 This project analyzes historical and real-time air quality data in Beijing using various data preprocessing and visualization techniques. It incorporates interactive elements to explore and update the data dynamically, providing insights into pollution trends and their potential impacts.
